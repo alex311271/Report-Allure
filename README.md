@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dyud58c4fclon2ld?svg=true)](https://ci.appveyor.com/project/alex311271/card-delivery-patterns)
