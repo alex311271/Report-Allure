@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/dyud58c4fclon2ld?svg=true)](https://ci.appveyor.com/project/alex311271/card-delivery-patterns)
+[![Build status](https://ci.appveyor.com/api/projects/status/3hat922kfnfbl71y?svg=true)](https://ci.appveyor.com/project/alex311271/report-allure)
 
 
 ### Задача
